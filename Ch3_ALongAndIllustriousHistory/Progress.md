@@ -2,14 +2,14 @@
 
 |Chapter|Name|Read|Note|
 |-|-|-|-|
-|3.1|Early Britain|X|||
-|3.1.1|The Romans|X||
-|3.1.2|The Anglo-Saxons|X||
-|3.1.3|The Vikings|X||
-|3.1.4|The Norman Conquest|X|
+|3.1|Early Britain|O|||
+|3.1.1|The Romans|O||
+|3.1.2|The Anglo-Saxons|O||
+|3.1.3|The Vikings|O||
+|3.1.4|The Norman Conquest|O|
 |3.2|The Middle Ages|X||
-|3.2.1|War at home and abroad|X||
-|3.2.2|The Black Death|X||
+|3.2.1|War at home and abroad|O||
+|3.2.2|The Black Death|O||
 |3.2.3|Legal and political changes|X||
 |3.2.4|A distinct identity|x||
 |3.2.5|The Wars of the Roses|x||

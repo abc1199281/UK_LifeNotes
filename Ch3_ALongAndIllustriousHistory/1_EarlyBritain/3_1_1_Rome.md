@@ -1,9 +1,9 @@
 # 3.1.1 Rome
 
 ## Initial Roman Invasions:
-- Julius Caesar led an unsuccessful invasion in 55 BC.
-- Britain remained separate from the Roman Empire for nearly 100 years afterwards.
-- Emperor Claudius led a successful invasion in AD 43.
+- Julius Caesar led an unsuccessful invasion in **55 BC**.
+- Britain remained separate from the Roman Empire for nearly **100 years** afterwards.
+- **Emperor Claudius** led a successful invasion in **AD 43**.
 
 ## Roman Occupation:
 - The Romans successfully occupied almost all of Britain despite resistance.
