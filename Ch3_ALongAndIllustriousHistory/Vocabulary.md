@@ -7,3 +7,7 @@
 - serfs: 農奴
 - Suffrage: 選舉權
 - the clergy: 教士
+- wool: 羊毛
+- thriftiness / thrifty: 節儉
+- vernacular : 白話文的/鄉土的
+- Devout Catholic: 虔誠的

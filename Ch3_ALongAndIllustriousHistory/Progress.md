@@ -7,12 +7,12 @@
 |3.1.2|The Anglo-Saxons|O||
 |3.1.3|The Vikings|O||
 |3.1.4|The Norman Conquest|O|
-|3.2|The Middle Ages|X||
+|3.2|The Middle Ages|O||
 |3.2.1|War at home and abroad|O||
 |3.2.2|The Black Death|O||
-|3.2.3|Legal and political changes|X||
-|3.2.4|A distinct identity|x||
-|3.2.5|The Wars of the Roses|x||
+|3.2.3|Legal and political changes|O||
+|3.2.4|A distinct identity|O||
+|3.2.5|The Wars of the Roses|O||
 |3.3|The Tudors and Stuarts|x||
 |3.3.1|Religious conflicts|x||
 |3.3.2|The reformation of Scotland and Mary|x||
