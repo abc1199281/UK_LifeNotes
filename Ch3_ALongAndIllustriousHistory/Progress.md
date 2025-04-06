@@ -14,12 +14,12 @@
 |3.2.4|A distinct identity|O||
 |3.2.5|The Wars of the Roses|O||
 |3.3|The Tudors and Stuarts|x||
-|3.3.1|Religious conflicts|x||
-|3.3.2|The reformation of Scotland and Mary|x||
-|3.3.3|Exploration, poetry, and drama|x||
-|3.3.4|James VI and I|x||
-|3.3.5|Ireland|x||
-|3.3.6|The rise of Parliment|x||
+|3.3.1|Religious conflicts|O||
+|3.3.2|The reformation of Scotland and Mary|O||
+|3.3.3|Exploration, poetry, and drama|O||
+|3.3.4|James VI and I|O||
+|3.3.5|Ireland|O||
+|3.3.6|The rise of Parliment|O||
 |3.3.7|The beginning of the English Civil War|x||
 |3.3.8|Oliver Cromwell and the English Republic|x||
 |3.3.9|The Restoration|x||
