@@ -20,11 +20,11 @@
 |3.3.4|James VI and I|O||
 |3.3.5|Ireland|O||
 |3.3.6|The rise of Parliment|O||
-|3.3.7|The beginning of the English Civil War|x||
-|3.3.8|Oliver Cromwell and the English Republic|x||
-|3.3.9|The Restoration|x||
-|3.3.10|A Catholic King|x||
-|3.3.11|The Glorious Revolution|x||
+|3.3.7|The beginning of the English Civil War|O||
+|3.3.8|Oliver Cromwell and the English Republic|O||
+|3.3.9|The Restoration|O||
+|3.3.10|A Catholic King|O||
+|3.3.11|The Glorious Revolution|O||
 |3.4|A global Power|x||
 |3.4.1|Constitutional monarchy - the Bill of Rights|x||
 |3.4.2|A growing population|x||

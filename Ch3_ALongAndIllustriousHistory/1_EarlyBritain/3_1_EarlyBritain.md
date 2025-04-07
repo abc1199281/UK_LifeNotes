@@ -9,7 +9,6 @@
 - 10,000 years ago: Britain became an island.
 - 6,000 years ago: Farming was introduced.
 - 4,000 years ago: Bronze age
--
 
 ## The Stone Age
 - Inhabitants: Initially hunter-gatherers.
