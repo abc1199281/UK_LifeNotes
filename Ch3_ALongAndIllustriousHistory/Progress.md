@@ -13,7 +13,7 @@
 |3.2.3|Legal and political changes|O||
 |3.2.4|A distinct identity|O||
 |3.2.5|The Wars of the Roses|O||
-|3.3|The Tudors and Stuarts|x||
+|3.3|The Tudors and Stuarts|O||
 |3.3.1|Religious conflicts|O||
 |3.3.2|The reformation of Scotland and Mary|O||
 |3.3.3|Exploration, poetry, and drama|O||
@@ -26,14 +26,14 @@
 |3.3.10|A Catholic King|O||
 |3.3.11|The Glorious Revolution|O||
 |3.4|A global Power|x||
-|3.4.1|Constitutional monarchy - the Bill of Rights|x||
-|3.4.2|A growing population|x||
-|3.4.3|The Act or Treaty of Union in Scotland|x||
-|3.4.4|The Prime Minister|x||
-|3.4.5|The rebellion of the clans|x||
-|3.4.6|The Enlightenment|x||
-|3.4.7|The Industrial Revolution|x||
-|3.4.8|The slave trade|x||
+|3.4.1|Constitutional monarchy - the Bill of Rights|O||
+|3.4.2|A growing population|O||
+|3.4.3|The Act or Treaty of Union in Scotland|O||
+|3.4.4|The Prime Minister|O||
+|3.4.5|The rebellion of the clans|O||
+|3.4.6|The Enlightenment|O||
+|3.4.7|The Industrial Revolution|O||
+|3.4.8|The slave trade|O||
 |3.4.9|The American War of Independence|x||
 |3.4.10|War with France|x||
 |3.4.11|the Union Flag|x||
