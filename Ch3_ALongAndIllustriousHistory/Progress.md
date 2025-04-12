@@ -35,14 +35,14 @@
 |3.4.7|The Industrial Revolution|O||
 |3.4.8|The slave trade|O||
 |3.4.9|The American War of Independence|x||
-|3.4.10|War with France|x||
-|3.4.11|the Union Flag|x||
-|3.4.12|the Victorian Age|x||
-|3.4.13|The British Empire|x||
-|3.4.14|Trade and industry|x||
-|3.4.15|The Crimean War|x||
-|3.4.16|Ireland in the 19th century|x||
-|3.4.17|The right to vote|x||
+|3.4.10|War with France|O||
+|3.4.11|the Union Flag|O||
+|3.4.12|the Victorian Age|O||
+|3.4.13|The British Empire|O||
+|3.4.14|Trade and industry|O||
+|3.4.15|The Crimean War|O||
+|3.4.16|Ireland in the 19th century|O||
+|3.4.17|The right to vote|O||
 |3.4.18|The future of the Empire|x||
 |3.5|The 20th Century|x||
 |3.5.1|The First World War|x||
