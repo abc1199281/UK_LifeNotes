@@ -1,0 +1,41 @@
+# 3.6.4 Great British Inventions
+
+- **Television**:
+    - Developed by *John Logie Baird* (1888–1946).
+    - He made the first television broadcast between London and Glasgow in 1932.  
+
+- **Radar**:
+    - Developed by *Sir Robert Watson-Watt* (1892–1973).
+    - The first successful radar test took place in 1935.  
+- **Radio telescope** at Jodrell Bank:
+    - Developed by Sir Bernard Lovell (1913–2012)  
+    - new discoveries in astronomy
+- **Turing machine**:
+    - Invented by Alan Turing (1912–54) in the 1930s.
+    - Influencd computer science.  
+- **Insulin**:
+    - Co-discovered by John MacLeod (1876–1935), used to treat diabetes.  
+- **Structure of the DNA molecule**:
+    - Discovered in 1953 at British universities.
+    - Francis Crick (1916–2004) was one of the Nobel Prize winners for this.  
+- **Jet engine**:
+    - Developed by Sir Frank Whittle (1907–96) in the 1930s.
+- **Hovercraft**:
+    - Invented by Sir Christopher Cockerell (1910–99) in the 1950s.  
+- **Concorde**:
+    - Supersonic passenger aircraft, developed jointly with France.
+    - First flew in 1969, passenger flights began in 1976. Retired in 2003.  
+- **Harrier jump jet**:
+    - Aircraft capable of vertical take-off.  
+- **Cash-dispensing ATM**:
+    - Invented by James Goodfellow (1937–). First used in 1967 in Enfield, London.  
+- **IVF (in-vitro fertilization) therapy**:
+    - Pioneered by Sir Robert Edwards (1925–) and Patrick Steptoe (1913–88).
+    - The first "*test-tube baby*" was born in 1978.  
+- **Cloning**:
+    - Sir Ian Wilmot (1944–) and Keith Campbell (1954–2012) led the team that first cloned a mammal (**Dolly the sheep**) in 1996.
+- **MRI (magnetic resonance imaging) scanner**:
+    - Co-invented by Sir Peter Mansfield (1933–).
+- **World Wide Web**:
+    - Invented by Sir Tim Berners-Lee (1955–).
+    - The first successful information transfer via the web occurred on 25 December 1990.  

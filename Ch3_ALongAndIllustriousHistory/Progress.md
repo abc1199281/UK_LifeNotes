@@ -49,14 +49,15 @@
 |3.5.2|The partition of Ireland|O||
 |3.5.3|The inter-war period|O||
 |3.5.4|The second world war|O||
-|3.6|Britain Since 1945|x||
-|3.6.1|The welfare state|x||
-|3.6.2|Migration in post-war Britain|x||
-|3.6.3|Social change in the 1960s|x||
-|3.6.4|Some great British Inventions of the 20th century|x||
-|3.6.5|Problems in the economy in the 1970s|x||
-|3.6.6|Europe and the Common Market|x||
-|3.6.7|Conservative government from 1979 to 1977|x||
-|3.6.8|Labour government from 1977 to 2010|x||
-|3.6.9|Conflicts in Afghanistan and Iraq|x||
-|3.6.10|Coalition government 2010 onwards|x||
+|3.6|Britain Since 1945|O||
+|3.6.1|The welfare state|O||
+|3.6.2|Migration in post-war Britain|O||
+|3.6.3|Social change in the 1960s|O||
+|3.6.4|Some great British Inventions of the 20th century|O||
+|3.6.5|Problems in the economy in the 1970s|O||
+|3.6.6|Europe and the Common Market|O||
+|3.6.7|Conservative government from 1979 to 1977|O||
+|3.6.8|Labour government from 1977 to 2010|O||
+|3.6.9|Conflicts in Afghanistan and Iraq|O||
+|3.6.10|Coalition government 2010 to 2015|O||
+|3.6.11|Government from 2015 on wards|O||
