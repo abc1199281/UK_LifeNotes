@@ -57,3 +57,30 @@
 ### Full Suffrage in 1928:
 
 - Shortly before *Emmeline Pankhurst*'s death in 1928, women gained equal voting rights with men at the age of 21.
+
+## Emmeline Pankhurst
+
+### Early Activism:
+
+- Born in Manchester in 1858.
+- Established the Women's Franchise League in 1889, advocating for married women's voting rights in local elections.
+
+### Founding the Women's Social and Political Union (WSPU):
+
+- Co-founded the WSPU in 1903.
+- This group's members were known as "**suffragettes**."
+- The WSPU employed **civil disobedience** as a protest tactic.
+
+### Suffragette Protest Tactics:
+
+- Engaged in acts of civil disobedience, including *chaining themselves to railings, smashing windows, and committing arson*.
+- Many members, including Emmeline Pankhurst, participated in *hunger strikes*.
+
+### Partial Suffrage in 1918:
+
+- In 1918, women **over 30** were granted voting rights and the right to stand for Parliament.
+- This was partly in recognition of women's contributions during World War I.
+
+### Full Suffrage in 1928:
+
+- Shortly before Emmeline Pankhurst's death **in 1928**, women gained equal voting rights with men at the age of 21.

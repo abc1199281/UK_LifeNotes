@@ -43,12 +43,12 @@
 |3.4.15|The Crimean War|O||
 |3.4.16|Ireland in the 19th century|O||
 |3.4.17|The right to vote|O||
-|3.4.18|The future of the Empire|x||
-|3.5|The 20th Century|x||
-|3.5.1|The First World War|x||
-|3.5.2|The partition of Ireland|x||
-|3.5.3|The inter-war period|x||
-|3.5.4|The second world war|x||
+|3.4.18|The future of the Empire|O||
+|3.5|The 20th Century|O||
+|3.5.1|The First World War|O||
+|3.5.2|The partition of Ireland|O||
+|3.5.3|The inter-war period|O||
+|3.5.4|The second world war|O||
 |3.6|Britain Since 1945|x||
 |3.6.1|The welfare state|x||
 |3.6.2|Migration in post-war Britain|x||

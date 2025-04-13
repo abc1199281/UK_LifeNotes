@@ -11,3 +11,4 @@
 - thriftiness / thrifty: 節儉
 - vernacular : 白話文的/鄉土的
 - Devout Catholic: 虔誠的
+- guerrilla war
