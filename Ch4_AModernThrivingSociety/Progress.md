@@ -18,17 +18,17 @@
 |4.3.2|Other religious festivals|O||
 |4.3.3|Other festivals and traditions|O||
 |4.3.4|Bank holidays|O||
-|4.4|Sport|x||
-|4.4.1|Notable British sportsmen and women|x||
-|4.4.2|Cricket|x||
-|4.4.3|Football|x||
-|4.4.4|Rugby|x||
-|4.4.5|Horse racing|x||
-|4.4.6|Golf|x||
-|4.4.7|Tennis|x||
-|4.4.8|Water sports|x||
-|4.4.9|Motor sports|x||
-|4.4.10|Skiing|x||
+|4.4|Sport|O||
+|4.4.1|Notable British sportsmen and women|O||
+|4.4.2|Cricket|O||
+|4.4.3|Football|O||
+|4.4.4|Rugby|O||
+|4.4.5|Horse racing|O||
+|4.4.6|Golf|O||
+|4.4.7|Tennis|O||
+|4.4.8|Water sports|O||
+|4.4.9|Motor sports|O||
+|4.4.10|Skiing|O||
 |4.5|Arts and Culture|x||
 |4.5.1|Music|x||
 |4.5.2|Theatre|x||
