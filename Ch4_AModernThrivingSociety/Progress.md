@@ -29,17 +29,17 @@
 |4.4.8|Water sports|O||
 |4.4.9|Motor sports|O||
 |4.4.10|Skiing|O||
-|4.5|Arts and Culture|x||
-|4.5.1|Music|x||
-|4.5.2|Theatre|x||
-|4.5.3|Art|x||
-|4.5.3.1|Notable British artists|x||
-|4.5.4|Architecture|x||
-|4.5.5|Fashion and design|x||
-|4.5.6|Literature|x||
-|4.5.6.1|Notable authors and writers|x||
+|4.5|Arts and Culture|O||
+|4.5.1|Music|O||
+|4.5.2|Theatre|O||
+|4.5.3|Art|O||
+|4.5.3.1|Notable British artists|O||
+|4.5.4|Architecture|O||
+|4.5.5|Fashion and design|O||
+|4.5.6|Literature|O||
+|4.5.6.1|Notable authors and writers|O||
 |4.6|Leisure|x||
-|4.6.1|Gardening|x||
+|4.6.1|Gardening|O||
 |4.6.2|Shopping|x||
 |4.6.3|Cooking and food|x||
 |4.6.3.1|Traditional foods|x||
@@ -51,6 +51,6 @@
 |4.6.7|Social networking|x||
 |4.6.8|Pubs and night clubs|x||
 |4.6.9|Betting and gambling|x||
-|4.6.10|Pets|x||
-|4.7|Places of Interest|x||
-|4.7.1|UK landmarks|x||
+|4.6.10|Pets|O||
+|4.7|Places of Interest|O||
+|4.7.1|UK landmarks|O||
