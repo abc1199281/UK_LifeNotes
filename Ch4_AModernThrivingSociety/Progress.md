@@ -40,9 +40,9 @@
 |4.5.6.1|Notable authors and writers|O||
 |4.6|Leisure|x||
 |4.6.1|Gardening|O||
-|4.6.2|Shopping|x||
-|4.6.3|Cooking and food|x||
-|4.6.3.1|Traditional foods|x||
+|4.6.2|Shopping|O||
+|4.6.3|Cooking and food|O||
+|4.6.3.1|Traditional foods|O||
 |4.6.4|Films|x||
 |4.6.4.1|British film industry|x||
 |4.6.4.1.1|Some famous British films|x||
