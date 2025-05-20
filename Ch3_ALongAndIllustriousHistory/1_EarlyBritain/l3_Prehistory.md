@@ -10,9 +10,9 @@
 2. 10,000 years ago, Britain was separated by the channel
 3. First Farmers from South East Europe arrived UK in 6k years ago.
 4. Important Remains of the Stone Age
-    1. Stonehenge (Wiltshire, England)
+    1. Stonehenge (**Wiltshire**, England)
         - Special Gathering palce for seasonal ceremonies.
-    2. Skara Brae (Orkney Scotland)
+    2. **Skara Brae** (**Orkney** Scotland)
         - best prehistoric village in Northern Europe.
 
 ## The Bronze Age
